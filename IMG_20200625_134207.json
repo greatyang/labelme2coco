@@ -1,0 +1,110 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "taptopleft",
+      "points": [
+        [
+          712.8571428571429,
+          1145.2380952380952
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "taptopmid",
+      "points": [
+        [
+          836.6666666666667,
+          1033.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "taptopright",
+      "points": [
+        [
+          1034.2857142857142,
+          964.2857142857143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "tapbottomleft",
+      "points": [
+        [
+          765.2380952380952,
+          1314.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "tapbottomright",
+      "points": [
+        [
+          1170.9090909090908,
+          1314.5454545454545
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "squidleft",
+      "points": [
+        [
+          741.4285714285714,
+          1516.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "squidright",
+      "points": [
+        [
+          1200.952380952381,
+          1521.4285714285716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          629.2222222222222,
+          927.2222222222222
+        ],
+        [
+          1284.7777777777778,
+          2766.1111111111113
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IMG_20200625_134207.jpg",
+  "imageData": null,
+  "imageHeight": 3264,
+  "imageWidth": 1840
+}

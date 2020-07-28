@@ -1,0 +1,110 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "taptopleft",
+      "points": [
+        [
+          710.4761904761905,
+          1130.952380952381
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "taptopmid",
+      "points": [
+        [
+          829.5238095238096,
+          1019.047619047619
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "taptopright",
+      "points": [
+        [
+          1039.047619047619,
+          973.8095238095239
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "tapbottomleft",
+      "points": [
+        [
+          760.4761904761906,
+          1319.047619047619
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "tapbottomright",
+      "points": [
+        [
+          1170.0,
+          1321.4285714285716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "squidleft",
+      "points": [
+        [
+          731.9047619047619,
+          1521.4285714285716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "squidright",
+      "points": [
+        [
+          1186.6666666666667,
+          1523.8095238095239
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "bottle",
+      "points": [
+        [
+          628.6923076923076,
+          950.0
+        ],
+        [
+          1259.4615384615386,
+          2757.6923076923076
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IMG_20200625_134212.jpg",
+  "imageData": null,
+  "imageHeight": 3264,
+  "imageWidth": 1840
+}
